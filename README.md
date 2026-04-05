@@ -1,22 +1,20 @@
 # Olá, me chamo Erick Giordano
-
-### Analista de Dados | Economista | (RPA & Automação)
-
+### Cientista de Dados | Economista | (RPA & Automação) 
 Transformo processos manuais em **soluções automatizadas** e dados brutos em insights estratégicos. Atualmente focado em otimização de fluxos financeiros e integridade de dados no mercado **Financeiro**.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 Impacto & Experiência Profissional
-
 Minha atuação combina análise técnica com visão de negócio para escalar a produtividade das equipes:
 
 #### ⚡ Automação & Engenharia de Dados
@@ -30,8 +28,13 @@ Minha atuação combina análise técnica com visão de negócio para escalar a 
 
 ---
 
-### 📫 Contato
+### 📊 Linguagens Mais Usadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickGiordanoo&layout=compact&theme=dark&hide_border=true&langs_count=6)](https://github.com/ErickGiordanoo)
+
+---
+
+### 📫 Contato
 <a href="mailto:erickgiordano15@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
